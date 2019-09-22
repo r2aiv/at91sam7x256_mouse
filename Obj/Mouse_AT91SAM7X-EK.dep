@@ -34,7 +34,7 @@ I (usbcfg.h)(0x53467D10)
 I (usbcore.h)(0x53467D10)
 I (hiduser.h)(0x53467D10)
 I (mouse.h)(0x53467D10)
-F (.\mouse.c)(0x53467D10)(--thumb -c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Atmel\SAM7X-D__UVISION_VERSION="515"-o .\obj\mouse.o --omf_browse .\obj\mouse.crf --depend .\obj\mouse.d)
+F (.\mouse.c)(0x5D87B312)(--thumb -c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Atmel\SAM7X-D__UVISION_VERSION="515"-o .\obj\mouse.o --omf_browse .\obj\mouse.crf --depend .\obj\mouse.d)
 I (C:\Keil_v5\ARM\Inc\Atmel\SAM7X\AT91SAM7X256.H)(0x53467C86)
 I (../../AT91SAM7X-EK.h)(0x5D87AE40)
 I (type.h)(0x53467D10)
