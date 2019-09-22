@@ -1,0 +1,53 @@
+Dependencies for Project 'Mouse', Target 'AT91SAM7X-EK': (DO NOT MODIFY !)
+F (.\SAM7.s)(0x53467D10)(--cpu ARM7TDMI -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Atmel\SAM7X--pd "__UVISION_VERSION SETA 515"-o .\obj\sam7.o --depend .\obj\sam7.d)
+F (.\usbcfg.h)(0x53467D10)()
+F (.\usbcore.c)(0x53467D10)(--thumb -c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Atmel\SAM7X-D__UVISION_VERSION="515"-o .\obj\usbcore.o --omf_browse .\obj\usbcore.crf --depend .\obj\usbcore.d)
+I (type.h)(0x53467D10)
+I (usb.h)(0x53467D10)
+I (usbcfg.h)(0x53467D10)
+I (usbhw.h)(0x53467D10)
+I (usbcore.h)(0x53467D10)
+I (usbdesc.h)(0x53467D10)
+I (usbuser.h)(0x53467D10)
+I (hid.h)(0x53467D10)
+I (hiduser.h)(0x53467D10)
+F (.\usbdesc.c)(0x5D87AE9C)(--thumb -c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Atmel\SAM7X-D__UVISION_VERSION="515"-o .\obj\usbdesc.o --omf_browse .\obj\usbdesc.crf --depend .\obj\usbdesc.d)
+I (type.h)(0x53467D10)
+I (usb.h)(0x53467D10)
+I (usbcfg.h)(0x53467D10)
+I (usbdesc.h)(0x53467D10)
+I (hid.h)(0x53467D10)
+F (.\usbuser.c)(0x53467D10)(--thumb -c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Atmel\SAM7X-D__UVISION_VERSION="515"-o .\obj\usbuser.o --omf_browse .\obj\usbuser.crf --depend .\obj\usbuser.d)
+I (type.h)(0x53467D10)
+I (usb.h)(0x53467D10)
+I (usbcfg.h)(0x53467D10)
+I (usbhw.h)(0x53467D10)
+I (usbcore.h)(0x53467D10)
+I (usbuser.h)(0x53467D10)
+I (hiduser.h)(0x53467D10)
+I (mouse.h)(0x53467D10)
+F (.\hiduser.c)(0x53467D10)(--thumb -c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Atmel\SAM7X-D__UVISION_VERSION="515"-o .\obj\hiduser.o --omf_browse .\obj\hiduser.crf --depend .\obj\hiduser.d)
+I (type.h)(0x53467D10)
+I (usb.h)(0x53467D10)
+I (hid.h)(0x53467D10)
+I (usbcfg.h)(0x53467D10)
+I (usbcore.h)(0x53467D10)
+I (hiduser.h)(0x53467D10)
+I (mouse.h)(0x53467D10)
+F (.\mouse.c)(0x53467D10)(--thumb -c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Atmel\SAM7X-D__UVISION_VERSION="515"-o .\obj\mouse.o --omf_browse .\obj\mouse.crf --depend .\obj\mouse.d)
+I (C:\Keil_v5\ARM\Inc\Atmel\SAM7X\AT91SAM7X256.H)(0x53467C86)
+I (../../AT91SAM7X-EK.h)(0x5D87AE40)
+I (type.h)(0x53467D10)
+I (usb.h)(0x53467D10)
+I (usbcfg.h)(0x53467D10)
+I (usbhw.h)(0x53467D10)
+I (mouse.h)(0x53467D10)
+F (.\usbhw_SAM7X.c)(0x53467D10)(--thumb -c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Atmel\SAM7X-D__UVISION_VERSION="515"-o .\obj\usbhw_sam7x.o --omf_browse .\obj\usbhw_sam7x.crf --depend .\obj\usbhw_sam7x.d)
+I (C:\Keil_v5\ARM\Inc\Atmel\SAM7X\AT91SAM7X256.H)(0x53467C86)
+I (type.h)(0x53467D10)
+I (usb.h)(0x53467D10)
+I (usbcfg.h)(0x53467D10)
+I (usbhw.h)(0x53467D10)
+I (usbcore.h)(0x53467D10)
+I (usbuser.h)(0x53467D10)
+F (.\Abstract.txt)(0x53467D10)()
